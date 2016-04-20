@@ -1,0 +1,24 @@
+{
+  "name": "face",
+  "authors": [
+    "jRoadie"
+  ],
+  "description": "the front ace",
+  "main": "index.js",
+  "moduleType": [
+    "es6"
+  ],
+  "keywords": [
+    "ui",
+    "reactjs"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/jRoadie/face",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
