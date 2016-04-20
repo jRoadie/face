@@ -1,0 +1,23 @@
+{
+  "name": "face",
+  "version": "0.1.0",
+  "description": "the front ace",
+  "main": "index.js",
+  "scripts": {
+    "test": "none"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@jroadie:jRoadie/face.git"
+  },
+  "keywords": [
+    "ui",
+    "reactjs",
+    "framework"
+  ],
+  "author": "jRoadie",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
